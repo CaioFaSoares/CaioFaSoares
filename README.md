@@ -1,9 +1,9 @@
-```LINUX
+```shell
 NAME [Caio Farias Soares                       13%]   CPU  [|||||                                     8%]
-UNIV [Instituto Federal do Ceará               17%]   MEM  [||||||                           1,82G/16.0G]
-CURT [Front-end with Flutter & React           22%]   CURT [Front-End with Flutter & React           22%]
-INTE [Front-end and product design             12%]   INTE [Front-end and product design             12%]
-CTTC [caiofasoares@gmail.com                   11%]
+UNIV [Instituto Federal do Ceará               24%]   MEM  [||||||                           1,82G/16.0G]
+CURT [Front-end with Flutter & React           22%]   Tasks: 3, 8 thr; 3 running
+INTE [Front-end and product design             12%]   Load average: 0.21 0.17 0.14
+CTTC [caiofasoares@gmail.com                   11%]   Uptime: 7840 days, 13:21:49
 ```
 
 <!---
