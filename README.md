@@ -1,4 +1,4 @@
-```shell
+```bash
 NAME  [Caio Farias Soares                       13%]   CPU  [|||||                                     8%]
 UNIV  [Instituto Federal do Ceará               24%]   MEM  [||||||                           1,82G/16.0G]
 CURT  [Front-end with Flutter & React           22%]   Tasks: 3, 8 thr; 3 running
