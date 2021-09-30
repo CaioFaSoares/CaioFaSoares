@@ -1,8 +1,10 @@
+```shell
 NAME [ Caio Farias Soares                  13%]
 UNIV [ Instituto Federal do Ceará          17%]
 CURT [ Front-End with Flutter & React      22%]
 INTE [ Front-end and product design        12%]
 CTTC [ caiofasoares@gmail.com              11%]
+```
 
 <!---
 - 👋 Hi, I’m @CaioFaSoares
