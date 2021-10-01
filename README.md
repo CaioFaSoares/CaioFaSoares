@@ -5,7 +5,7 @@ CURT   [Front-end with Flutter & React          22%]   Tasks: 3, 8 thr; 3 runnin
 INTE   [Front-end and product design            12%]   Load average: 0.21 0.17 0.14
 CTTC   [caiofasoares@gmail.com                  11%]   Uptime: 7840 days, 13:21:49
 
-████████████████████████████████████████████████████████████████████████████████████████████████████████▌
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌
   ID ▌ LANGUAGE                              ▐ MST ▌   DESCRIPTION                                      ▌
 4157 ▌ Flutter                               ▐ 60% ▌   Mostly front-end. Developed an app on it for uni.▌
