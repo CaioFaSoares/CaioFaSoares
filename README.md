@@ -1,3 +1,10 @@
+Linux emulation and full-stack development.
+Working at Aurean for front-end end some little bit of back-end.
+Also on the Apple Developer Academy @ IFCE
+
+世界を閉じて次を開く
+
+<!---
 ```
 NAME   [Caio Farias Soares                      13%]   CPU  [|||||                                    8%]
 UNIV   [Instituto Federal do Ceará              24%]   MEM  [||||||                          1,82G/16.0G]
@@ -12,6 +19,7 @@ CTTC   [caiofasoares@gmail.com                  11%]   Uptime: 7840 days, 13:21:
  975 ▒ Python + ML                           ▒ 50% ▒   Used it in Huawei's AI program                   ▒
 1425 ▒ React                                 ▒ 20% ▒   Web front-end. Developed a portfolio on it.      ▒
 ```
+--->
 
 <!---
 - 👋 Hi, I’m @CaioFaSoares
