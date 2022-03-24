@@ -8,8 +8,7 @@ Also on the Apple Developer Academy @ IFCE
 --->
 
 
-```
-
+```shell
 >_ ~ topzada
 
 NAME   [Caio Farias Soares                      13%]   CPU  [|||||                                    8%]
@@ -26,6 +25,22 @@ CTTC   [caiofasoares@gmail.com                  11%]   Uptime: 7840 days, 13:21:
   41 ▒ C                                     ▒ 30% ▒   Used it in uni for some time.                    ▒ 
  975 ▒ Python + ML                           ▒ 20% ▒   Used it in Huawei's AI program                   ▒
 ```
+
+
+<!---bash
+>_ ~ fetchy
+
+             %%%                    Host:       Caio Farias Soares
+         %%%%%%                     Uptime:     21 years
+       %%%%%%   ##      ##          Studying:   Computer Engineering @ IFCE
+    %%%%%%%     (####   (####                   iOS Developer @ Apple Developer Academy
+  %%%%%%     .#.   ####    ####     
+  %%%%%%      #    ####    ####     Working:    Back-end and Front-end developer @ Aurean
+    %%%%%%#     (####   (####                   Graphical & UI Designer @ Aurean
+       %%%%%%   ##      ##          
+         %%%%%%                     Portfolio:  github.com/CaioFaSoares
+            %%%                                 behance.net/caiosoares1
+--->
 
 <!---
 - 👋 Hi, I’m @CaioFaSoares
