@@ -8,7 +8,7 @@ Also on the Apple Developer Academy @ IFCE
 --->
 
 
-```shell
+```
 >_ ~ topzada
 
 NAME   [Caio Farias Soares                   13%]   CPU  [|||||                              8%]
