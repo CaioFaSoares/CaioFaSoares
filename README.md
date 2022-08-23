@@ -20,10 +20,8 @@ CTTC   [caiofasoares@gmail.com               11%]   Uptime: 7840 days, 13:21:49
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
   ID ▒ LANGUAGE                        ▒ MST ▒   DESCRIPTION                                   ▒
-4157 ▒ Flutter                         ▒ 60% ▒   Developed an app on it for uni.               ▒
-3123 ▒ Angular                         ▒ 40% ▒   Web front-end. Using it in work               ▒
+5129 ▒ Swift                           ▒ 60% ▒   [REDACTED]                                    ▒
 1425 ▒ React                           ▒ 40% ▒   Web front-end. Developed a portfolio on it.   ▒
-5129 ▒ Swift                           ▒ 30% ▒   [REDACTED]                                    ▒
   41 ▒ C                               ▒ 30% ▒   Used it in uni for some time.                 ▒ 
  975 ▒ Python + ML                     ▒ 20% ▒   Used it in Huawei's AI program                ▒
 ```
