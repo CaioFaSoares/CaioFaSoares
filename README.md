@@ -14,7 +14,7 @@ Also on the Apple Developer Academy @ IFCE
 NAME   [Caio Farias Soares                   13%]   CPU  [|||||                              8%]
 UNIV   [Instituto Federal do Ceará           24%]   MEM  [||||||                    1,82G/16.0G]
 LABS   [Apple Developer Academy @ IFCE        5%]   
-CURT   [Front-end with Flutter & React       22%]   Tasks: 3, 8 thr; 3 running
+CURT   [Mobile Development with Swift        22%]   Tasks: 3, 8 thr; 3 running
 INTE   [Front-end and product design         12%]   Load average: 0.21 0.17 0.14
 CTTC   [caiofasoares@gmail.com               11%]   Uptime: 7840 days, 13:21:49
 
