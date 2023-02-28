@@ -20,10 +20,10 @@ CTCT   [caiofasoares@gmail.com               11%]   Uptime: 7840 days, 13:21:49
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
   ID ▒ LANGUAGE                        ▒ MST ▒   DESCRIPTION                                   ▒
-5129 ▒ Swift                           ▒ 70% ▒   [REDACTED]                                    ▒
+5129 ▒ Swift                           ▒ 70% ▒   Using it daily @ ADA IFCE                     ▒
 1223 ▒ Python + ML                     ▒ 40% ▒   Used it in Huawei's AI program                ▒
 1425 ▒ JavaScript                      ▒ 30% ▒   Web front-end. Developed a portfolio on it.   ▒
-2345 ▒ Ruby                            ▒ 20% ▒   Used it in Huawei's AI program                ▒
+2345 ▒ Ruby                            ▒ 20% ▒   Studying it through Exercism                  ▒
   41 ▒ C                               ▒ 30% ▒   Used it in uni for some time.                 ▒ 
 ```
 
