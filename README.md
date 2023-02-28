@@ -12,18 +12,19 @@ Also on the Apple Developer Academy @ IFCE
 >_ ~ topzada
 
 NAME   [Caio Farias Soares                   13%]   CPU  [|||||                              8%]
-UNIV   [Instituto Federal do Ceará           24%]   MEM  [||||||                    1,82G/16.0G]
-LABS   [Apple Developer Academy @ IFCE        5%]   
-CURT   [Mobile Development with Swift        22%]   Tasks: 3, 8 thr; 3 running
-INTE   [Front-end and product design         12%]   Load average: 0.21 0.17 0.14
-CTTC   [caiofasoares@gmail.com               11%]   Uptime: 7840 days, 13:21:49
+UNIV   [Instituto Federal do Ceará           42%]   MEM  [||||||                    1,82G/16.0G]
+LABS   [Apple Developer Academy @ IFCE       70%]   
+CURT   [iOS Engieneer using Swift            63%]   Tasks: 3, 8 thr; 3 running
+INTE   [Software Engieneering!               60%]   Load average: 0.21 0.17 0.14
+CTCT   [caiofasoares@gmail.com               11%]   Uptime: 7840 days, 13:21:49
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
   ID ▒ LANGUAGE                        ▒ MST ▒   DESCRIPTION                                   ▒
-5129 ▒ Swift                           ▒ 60% ▒   [REDACTED]                                    ▒
-1425 ▒ React                           ▒ 40% ▒   Web front-end. Developed a portfolio on it.   ▒
+5129 ▒ Swift                           ▒ 70% ▒   [REDACTED]                                    ▒
+1223 ▒ Python + ML                     ▒ 40% ▒   Used it in Huawei's AI program                ▒
+1425 ▒ JavaScript                      ▒ 30% ▒   Web front-end. Developed a portfolio on it.   ▒
+2345 ▒ Ruby                            ▒ 20% ▒   Used it in Huawei's AI program                ▒
   41 ▒ C                               ▒ 30% ▒   Used it in uni for some time.                 ▒ 
- 975 ▒ Python + ML                     ▒ 20% ▒   Used it in Huawei's AI program                ▒
 ```
 
 
