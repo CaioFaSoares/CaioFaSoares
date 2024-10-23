@@ -11,20 +11,21 @@ Also on the Apple Developer Academy @ IFCE
 ```
 >_ ~ topzada
 
-NAME   [Caio Farias Soares                   13%]   CPU  [|||||                              8%]
-UNIV   [Instituto Federal do Ceará           42%]   MEM  [||||||                    1,82G/16.0G]
-LABS   [Apple Developer Academy @ IFCE       70%]   
-CURT   [iOS Engieneer using Swift            63%]   Tasks: 3, 8 thr; 3 running
-INTE   [Software Engieneering!               60%]   Load average: 0.21 0.17 0.14
-CTCT   [caiofasoares@gmail.com               11%]   Uptime: 7840 days, 13:21:49
+     __________________                                NAME   [Caio Farias Soares                   13%]   CPU  [|||||                              8%]
+  < oi, meu nome é caio! >                             UNIV   [Instituto Federal do Ceará           42%]   MEM  [|||||||                   2,46G/16.0G]
+     ------------------                                WORK   [iOS Tech Lead @ iRede/LDS/IFCE       70%]   
+            \   ^__^                                   CURT   [iOS Engieneer using Swift            63%]   Tasks: 3, 8 thr; 3 running
+             \  (oo)\_______                           INTE   [Native Dev, Emul, Teaching           60%]   Load average: 0.21 0.17 0.14
+                (__)\       )\/\                       CTCT   [caiofsoa@gmail.com                   11%]   Uptime: 7840 days, 13:21:49
+                    ||----w |
+,../..>./..<.,..,.\.||     ||.<.,../..>..<.,..,.\.,..<
 
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-  ID ▒ LANGUAGE                        ▒ MST ▒   DESCRIPTION                                   ▒
-5129 ▒ Swift                           ▒ 70% ▒   Using it daily @ ADA IFCE                     ▒
-1223 ▒ Python + ML                     ▒ 40% ▒   Used it in Huawei's AI program                ▒
-1425 ▒ JavaScript                      ▒ 30% ▒   Web front-end. Developed a portfolio on it.   ▒
-2345 ▒ Ruby                            ▒ 20% ▒   Studying it through Exercism                  ▒
-  41 ▒ C                               ▒ 30% ▒   Used it in uni for some time.                 ▒ 
+Sou designer e desenvolvedor.                          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+Atualmente estou mentorando Swift, desenvolvimento     ▒  ID  ▒ LANGUAGE_______________________ ▒ MST ▒ DESCRIPTION__________________________________ ▒
+iOS e design de aplicativo mobile na residência iOS    ▒ 5129 ▒ Swift                           ▒ 70% ▒ Mentoring it @ IFCE's iOS Residency           ▒
+no Instituto Federal de Educação, Ciência              ▒ 1223 ▒ Python + ML                     ▒ 60% ▒ Go to lang for daily stuff                    ▒
+e Tecnologia do Ceará                                  ▒ 1425 ▒ JavaScript                      ▒ 60% ▒ Front-end, Express, little webapps n stuff    ▒
+
 ```
 
 
