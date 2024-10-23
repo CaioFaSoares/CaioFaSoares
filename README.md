@@ -20,11 +20,11 @@ Also on the Apple Developer Academy @ IFCE
                     ||----w |
 ,../..>./..<.,..,.\.||     ||.<.,../..>..<.,..,.\.,..<
 
-Sou designer e desenvolvedor.                          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-Atualmente estou mentorando Swift, desenvolvimento     ▒  ID  ▒ LANGUAGE_______________________ ▒ MST ▒ DESCRIPTION__________________________________ ▒
-iOS e design de aplicativo mobile na residência iOS    ▒ 5129 ▒ Swift                           ▒ 70% ▒ Mentoring it @ IFCE's iOS Residency           ▒
-no Instituto Federal de Educação, Ciência              ▒ 1223 ▒ Python + ML                     ▒ 60% ▒ Go to lang for daily stuff                    ▒
-e Tecnologia do Ceará                                  ▒ 1425 ▒ JavaScript                      ▒ 60% ▒ Front-end, Express, little webapps n stuff    ▒
+            Sou designer e desenvolvedor.              ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+  Atualmente estou mentorando Swift, desenvolvimento   ▒  ID  ▒ LANGUAGE_______________________ ▒ MST ▒ DESCRIPTION__________________________________ ▒
+ iOS e design de aplicativo mobile na residência iOS   ▒ 5129 ▒ Swift                           ▒ 70% ▒ Mentoring it @ IFCE's iOS Residency           ▒
+        no Instituto Federal de Educação, Ciência      ▒ 1223 ▒ Python + ML                     ▒ 60% ▒ Go to lang for daily stuff                    ▒
+                e Tecnologia do Ceará                  ▒ 1425 ▒ JavaScript                      ▒ 60% ▒ Front-end, Express, little webapps n stuff    ▒
 
 ```
 
